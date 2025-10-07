@@ -24,8 +24,6 @@ To analyze the Airbnb dataset and answer the following key questions:
 
 ## 🧩 Tools and Technologies Used
 
-## 🧩 Tools and Technologies Used
-
 * **Python** – Core programming language
 * **Pandas & NumPy** – Data cleaning and preprocessing
 * **Scikit-learn** – Machine learning (model training, regression, evaluation)
@@ -71,7 +69,7 @@ The analysis includes:
 
 ## 🏁 Conclusion
 
-This analysis provides insights into Airbnb listings, helping understand:
+This analysis provides insights into Airbnb listings, helping to understand:
 
 * Which areas and property types dominate the platform
 * How pricing varies with location and construction year
