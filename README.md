@@ -24,11 +24,13 @@ To analyze the Airbnb dataset and answer the following key questions:
 
 ## 🧩 Tools and Technologies Used
 
-* **Python**
-* **Pandas** – for data manipulation and cleaning
-* **NumPy** – for numerical operations
-* **Matplotlib & Seaborn** – for data visualization
-* **SciPy** – for statistical analysis
+## 🧩 Tools and Technologies Used
+
+* **Python** – Core programming language
+* **Pandas & NumPy** – Data cleaning and preprocessing
+* **Scikit-learn** – Machine learning (model training, regression, evaluation)
+* **Matplotlib** – Data visualization and feature importance
+* **VS Code & Google Colab** – Cloud-based environment for running the project
 
 ---
 
